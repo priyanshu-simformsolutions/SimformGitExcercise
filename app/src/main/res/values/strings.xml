@@ -17,4 +17,6 @@
     <string name="msg_upcoming_feature">To be Implemented Soon!!</string>
     <string name="action_edit">Edit</string>
     <string name="data_priyashu_email">priyashu@simformsolutions.com</string>
+    <string name="err_password_8_chars">Password must be of at least 8 Characters</string>
+    <string name="errr_valid_email">Enter valid Email</string>
 </resources>
