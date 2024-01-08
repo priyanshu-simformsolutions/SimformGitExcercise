@@ -12,4 +12,9 @@
     <string name="msg_registered_successfully">Registered Successfully</string>
     <string name="action_send_otp">Send OTP</string>
     <string name="msg_otp_sent">Otp sent on Registered Email Successfully</string>
+    <string name="data_priyanshu_desai">Priyanshu Desai</string>
+    <string name="data_priyanshu_email">priyashu@simformsolutions.com</string>
+    <string name="msg_upcoming_feature">To be Implemented Soon!!</string>
+    <string name="action_edit">Edit</string>
+    <string name="data_priyashu_email">priyashu@simformsolutions.com</string>
 </resources>
