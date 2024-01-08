@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">GitExcercise</string>
+    <string name="app_name">GitExercise</string>
+    <string name="hint_enter_email">Enter Email</string>
+    <string name="hint_enter_password">Enter Password</string>
+    <string name="action_login">Login</string>
+    <string name="msg_login_successfully">Login Successfully</string>
+    <string name="action_login_screen">Login Screen</string>
+    <string name="action_forgot_password">Forgot password?</string>
+    <string name="hint_enter_name">Enter Name</string>
+    <string name="action_registration_screen">Registration Screen</string>
+    <string name="action_registration">Register</string>
+    <string name="msg_registered_successfully">Registered Successfully</string>
+    <string name="action_send_otp">Send OTP</string>
+    <string name="msg_otp_sent">Otp sent on Registered Email Successfully</string>
 </resources>
