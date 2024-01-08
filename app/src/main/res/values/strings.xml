@@ -16,5 +16,8 @@
     <string name="data_priyanshu_email">priyashu@simformsolutions.com</string>
     <string name="msg_upcoming_feature">To be Implemented Soon!!</string>
     <string name="action_edit">Edit</string>
-    <string name="data_priyashu_email">priyashu@simformsolutions.com</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="action_save">Save</string>
+    <string name="msg_name_saved">Name Saved</string>
 </resources>
